@@ -1,4 +1,4 @@
-# CodePath-Worpress-vs.-Kali-Submition
+# CodePath-Worpress-vs.-Kali
 Cole Guerra's 4/15 Submission of Week 7 and 8 Kali vs Wordpress Codepath 
 
 ## Vulnerability 1: Back to Basics 
